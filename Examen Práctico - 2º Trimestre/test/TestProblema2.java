@@ -1,0 +1,2 @@
+public class TestProblema2 {
+}
